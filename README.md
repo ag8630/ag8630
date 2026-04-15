@@ -1,4 +1,7 @@
 # <p align="center">👋 Hi, I'm Anurag Gupta</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=45A29E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Spring+Boot+Enthusiast;Java+Backend+Dev;GLA+University+2026+Batch" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=45A29E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Spring+Boot+Enthusiast;28+Contributions+Last+Year;GLA+University+2026+Batch" alt="Typing SVG" />
