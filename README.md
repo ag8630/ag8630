@@ -1,18 +1,35 @@
-# Hi I'm Anurag Gupta 👋
-### Full Stack Developer | Java & Spring Boot Enthusiast | AI Explorer
+# <p align="center">👋 Hi, I'm Anurag Gupta</p>
 
-- 🎓 **B.Tech (2025-26)** at GLA University, Mathura
-- 💻 Currently deep-diving into **Spring Boot** and **MERN Stack**
-- 🚀 Passionate about integrating **AI & Computer Vision** in real-world apps
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anurag-gupta--/) | anuraggupta8630@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=45A29E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Spring+Boot+Enthusiast;28+Contributions+Last+Year;GLA+University+2026+Batch" alt="Typing SVG" />
+</p>
 
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ag8630&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ag8630&layout=compact&theme=dark)
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Car Rental MERN Project**
+- 🌱 I’m currently learning **Advanced Microservices**
+- ⚡ Fun fact: I love solving hardware DIY problems!
+
+### 🛠 Skills & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,nodejs,express,mysql,git,github,postman,maven&perline=6" />
+  </a>
+</p>
+
+### 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ag8630&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ag8630&layout=compact&theme=tokyonight" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ag8630&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+<p align="center"> 
+  Visitors count <br>
+  <img src="https://komarev.com/ghpvc/?username=ag8630&color=blueviolet" alt="ag8630" />
+</p>
