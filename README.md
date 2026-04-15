@@ -4,7 +4,7 @@
 - 🎓 **B.Tech (2025-26)** at GLA University, Mathura
 - 💻 Currently deep-diving into **Spring Boot** and **MERN Stack**
 - 🚀 Passionate about integrating **AI & Computer Vision** in real-world apps
-- 📫 How to reach me: [LinkedIn](TERA_LINK) | anurag.work@email.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anurag-gupta--/) | anuraggupta8630@gmail.com
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
