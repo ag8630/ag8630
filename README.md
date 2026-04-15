@@ -20,6 +20,10 @@
     <img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,nodejs,express,mysql,git,github,postman,maven&perline=6" />
   </a>
 </p>
+### 🏙️ My 3D Contribution Map
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=ag8630&theme=dark" alt="Anurag's 3D City" />
+</p>
 
 ### 📈 My GitHub Stats
 <p align="center">
